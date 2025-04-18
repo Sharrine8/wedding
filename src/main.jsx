@@ -1,12 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import { HashRouter } from "react-router-dom"; //instead of BrowserRouter when deploying with Vite
-import App from "./components/App/App";
+import { HashRouter } from "react-router-dom";
+import App from "./components/App/App.jsx";
+
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <HashRouter>
+    <HashRouter
+      future={{ v7_startTransition: true, v7_relativeSplatPath: true }}
+    >
       <App />
     </HashRouter>
   </React.StrictMode>
