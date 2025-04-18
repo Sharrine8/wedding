@@ -13,12 +13,14 @@ function Main() {
             <p className="main__text-title">AZAZIE DAPHNE</p>
             <p className="main__text">
               A-Line Ruffled Chiffon Floor-Length Dress Stormy. Click{" "}
-              <Link
+              <a
                 className="main__link"
-                to="https://www.azazie.com/products/azazie-daphne-stormy-a-line-ruffled-chiffon-floor-length-modest-bridesmaid-dress/121964"
+                href="https://www.azazie.com/products/azazie-daphne-stormy-a-line-ruffled-chiffon-floor-length-modest-bridesmaid-dress/121964"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 HERE
-              </Link>{" "}
+              </a>{" "}
               to be taken to site.
             </p>
           </div>
