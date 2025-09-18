@@ -35,6 +35,6 @@ since the bridal party was having a hard time deciding and the big day was appro
 
 [View Live Site](https://sharrine8.github.io/wedding/)
 
-![Header Screenshot](https://github.com/Sharrine8/wedding/blob/main/src/assets/header.png)
+- Header ![Header Screenshot](https://github.com/Sharrine8/wedding/blob/main/src/assets/header.png)
 
-![Bridesmaids Dress Picker Screenshot](https://github.com/Sharrine8/wedding/blob/main/src/assets/dress-picker.png)
+- Dress-Picker ![Bridesmaids Dress Picker Screenshot](https://github.com/Sharrine8/wedding/blob/main/src/assets/dress-picker.png)
